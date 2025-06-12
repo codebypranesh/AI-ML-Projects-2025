@@ -6,10 +6,6 @@ Netflix User Rating Prediction (Regression)
 🎯 Goal:
 Predict the user rating 1 to 10 for Netflix content based on features like genre, duration, release year, etc.
 
-
-
-# 🎬 Netflix User Rating Predictor
-
 A machine learning web app built with **Streamlit** to predict Netflix user ratings based on content type, release year, duration, and selected genres.
 
 ---
